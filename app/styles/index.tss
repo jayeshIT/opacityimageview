@@ -1,0 +1,16 @@
+".container": {
+	backgroundColor:"white"
+},
+".Scroll1":
+{
+	contentWidth : Titanium.UI.FILL,
+	contentHeight : Titanium.UI.SIZE,
+	showHorizontalScrollIndicator : false,
+	showVerticalScrollIndicator : true,
+	scrollingEnabled : true,
+	height : Titanium.UI.FILL,
+	width : Titanium.UI.FILL,
+	scrollType : 'vertical',
+	layout : 'horizontal',
+	left : 20
+}

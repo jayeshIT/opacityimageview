@@ -1,0 +1,22 @@
+<Alloy>
+	<Window id="win" class="container">
+		<ScrollView id="Scroll1" class="Scroll1" ></ScrollView>
+		<!--<View id="view" class="view">
+			<ImageView id="imgv1" class="imgv1"></ImageView>
+			<ImageView id="imgv2" class="imgv2"></ImageView>
+			<ImageView id="imgv3" class="imgv3"></ImageView>
+			<ImageView id="imgv4" class="imgv4"></ImageView>
+			<ImageView id="imgv5" class="imgv5"></ImageView>
+			<ImageView id="imgv6" class="imgv6"></ImageView>
+			<ImageView id="imgv7" class="imgv7"></ImageView>
+			<ImageView id="imgv8" class="imgv8"></ImageView>
+			<ImageView id="imgv9" class="imgv9"></ImageView>
+			<ImageView id="imgv9" class="imgv9"></ImageView>
+			<ImageView id="imgv9" class="imgv9"></ImageView>
+			<ImageView id="imgv9" class="imgv9"></ImageView>
+			<ImageView id="imgv10" class="imgv10"></ImageView>
+			<ImageView id="imgv11" class="imgv11"></ImageView>
+			<ImageView id="imgv12" class="imgv12"></ImageView>
+	</View>-->
+	</Window>
+</Alloy>
